@@ -8,3 +8,4 @@ KDE | https://webchat.kde.org | ✔️ | ✔️ | ❌ | ❌
 Matrix | https://app.element.io | ✔️ | ✔️ | ❌ | ✔️
 Mozilla | https://chat.mozilla.org | ✔️ | ❌ | ✔️ | ✔️
 PrivacyTools | https://element.privacytools.io | ❌ | ✔️ | ❌ | ❌
+Wiiz | https://chat.wiiz.ir | ✔️ | ✔️ | ❌ | ❌
